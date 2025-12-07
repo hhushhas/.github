@@ -13,27 +13,6 @@
 
 ---
 
-## **🚧 Current Work**
-
-### **🟣 Ava – AI Voice Platform**  
-**Repo:** https://github.com/Q9Labs/ava  
-AI infrastructure for production-grade call automation.
-
-- Inbound and outbound voice agents  
-- Telephony, observability, infra visualisation  
-- TypeScript, infra-as-code, DevOps heavy
-
----
-
-### **🟠 Recruiter – AI Hiring Agent**  
-**Repo:** https://github.com/Q9Labs/recruiter  
-API-first hiring automation.
-
-- Screening, structured interviews, candidate lifecycle  
-- Agentic workflows built for reliability
-
----
-
 ### **🧪 Experiments**
 
 - **workshops:** TS demos and training  
@@ -83,22 +62,6 @@ WebSockets, cloud networking
 ### **Testing**
 `Vitest` • `Playwright`  
 E2E-driven testing
-
----
-
-## **📌 Selected Repos**
-
-### **Q9Labs**
-- https://github.com/Q9Labs/ava  
-- https://github.com/Q9Labs/recruiter  
-- https://github.com/Q9Labs/et-whatsapp  
-- https://github.com/Q9Labs/et-whatsapp-mobile-app  
-
-### **Personal**
-- https://github.com/hhushhas/workshops  
-- https://github.com/hhushhas/Handwriting-Synthesis  
-- https://github.com/hhushhas/gemma-3n  
-- https://github.com/hhushhas/Neovim  
 
 ---
 

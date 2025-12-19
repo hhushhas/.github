@@ -10,7 +10,6 @@
 
 ## 👋 About Me
 
-- 17-year-old programmer & college student based in **Dubai, UAE**
 - Building AI-first products at **[Q9Labs](https://q9labs.ai)**  
 - Obsessed with **hard problems**, clean abstractions, and systems that scale  
 - Using AI as a force multiplier, not a crutch
@@ -146,36 +145,11 @@ I move across **product, backend, infra, and AI** comfortably.
 
 ---
 
-## 📌 Selected Repos
-
-- **AI Platforms (Q9Labs)**  
-  - [Q9Labs/ava](https://github.com/Q9Labs/ava) – AI Call Platform  
-  - [Q9Labs/recruiter](https://github.com/Q9Labs/recruiter) – AI Recruiter  
-  - [Q9Labs/et-whatsapp](https://github.com/Q9Labs/et-whatsapp) – AI WhatsApp Agent  
-  - [Q9Labs/et-whatsapp-mobile-app](https://github.com/Q9Labs/et-whatsapp-mobile-app) – Companion mobile app  
-
 - **Personal**  
   - [hhushhas/workshops](https://github.com/hhushhas/workshops) – Workshops & teaching material  
   - [hhushhas/Handwriting-Synthesis](https://github.com/hhushhas/Handwriting-Synthesis) – GAN for handwriting  
   - [hhushhas/gemma-3n](https://github.com/hhushhas/gemma-3n) – Gemma fine-tuning  
   - [hhushhas/Neovim](https://github.com/hhushhas/Neovim) – My editor brain
-
----
-
-## 📊 GitHub & Activity
-
-You’ll mostly see me:
-
-- Pushing to **Ava** and **Recruiter** at [Q9Labs](https://github.com/Q9Labs)  
-- Experimenting with **agents**, **infra visualisation**, and **evaluation tooling**  
-- Building small side projects to test ideas quickly
-
-You can add cards like this (optional):
-
-```md
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhushhas&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hhushhas&layout=compact&theme=radical)
-```
 
 ---
 
